@@ -17,23 +17,23 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 <span class="pl-c"><span class="pl-c">#</span> Clone este repositório</span>
 ```
-https://github.com/MauricioAraujo1/imhere-app.git
+https://github.com/MauricioAraujo1/ntt-data-frontend.git
 ```
 
-<h3>🧭 Rodando a aplicação mobile</h3>
+<h3>🧭 Rodando a aplicação web</h3>
 
 <span class="pl-c"><span class="pl-c">#</span> Acesse a pasta do projeto no terminal/cmd e execute os seguintes comandos:</span>
 
 ```
-cd imhere-app
+cd ntt-data-frontend
 npm install
 code .
 
 ```
-<span class="pl-c"><span class="pl-c">#</span>Depois de ter aberto o projeto no vscode, você precisa instalar no seu Android o aplicativo Expo Go, e logar na sua conta ou criar. Depois disso, você vai no terminal do seu vscode e escreva: expo start, caso vc ja tenha o expo instalado. Caso não consiga instalar o expo, basta acessar o link da documentção que explica passo a passo a como instalar o expo, e também recomendo você utilizar o managed, foi esse que utilizei! Também você poderá usar a a plicação através do emulador do Android Studio</span>
+<span class="pl-c"><span class="pl-c">#</span>Para rodar a aplicação pelo localhost, escreva:</span>
 
 ```
-https://docs.expo.dev/
+npm start
 ```
 
 # 🤝 Suporte 
