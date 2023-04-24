@@ -37,7 +37,7 @@ npm start
 ```
 
 # 🤝 Suporte 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/MauricioAraujo1/imhere-app/issues).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/MauricioAraujo1/ntt-data-frontend/issues).
 
 # 👤 Autor
 **🕵 Maurício Araújo**
