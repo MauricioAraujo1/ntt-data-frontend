@@ -1,75 +1,46 @@
-# Getting Started with Create React App
+<h4 align="center" dir="auto">⚔Bem-Vindo ao Omdb Movies⚔</h4>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# 💻 Descrição do Projeto
 
-## Available Scripts
+Omdb Movies é um site de filmes onde o usuário poderá visualizar o seu filme favorito e ter informações sobre atores e avaliar-los!
 
-In the project directory, you can run:
+## 🛠 Tecnologias
 
-### `npm start`
+As seguintes ferramentas foram usadas na construção do projeto:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- [ ] [React]
+- [ ] [JavaScript]
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🚀 Como executar o projeto
 
-### `npm test`
+<h3>Pré-requisitos</h3>
 
-Executes all Cypress tests in headless mode.
+<span class="pl-c"><span class="pl-c">#</span> Clone este repositório</span>
+```
+https://github.com/MauricioAraujo1/imhere-app.git
+```
 
-### `npm run test:open`
+<h3>🧭 Rodando a aplicação mobile</h3>
 
-Opens the Cypress-App to run tests in interactive mode.
+<span class="pl-c"><span class="pl-c">#</span> Acesse a pasta do projeto no terminal/cmd e execute os seguintes comandos:</span>
 
-### `npm run build`
+```
+cd imhere-app
+npm install
+code .
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```
+<span class="pl-c"><span class="pl-c">#</span>Depois de ter aberto o projeto no vscode, você precisa instalar no seu Android o aplicativo Expo Go, e logar na sua conta ou criar. Depois disso, você vai no terminal do seu vscode e escreva: expo start, caso vc ja tenha o expo instalado. Caso não consiga instalar o expo, basta acessar o link da documentção que explica passo a passo a como instalar o expo, e também recomendo você utilizar o managed, foi esse que utilizei! Também você poderá usar a a plicação através do emulador do Android Studio</span>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```
+https://docs.expo.dev/
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# 🤝 Suporte 
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/MauricioAraujo1/imhere-app/issues).
 
-### `npm run eject`
+# 👤 Autor
+**🕵 Maurício Araújo**
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-<!-- Use the force -->
+* Github: [MauricioAraujo1](https://github.com/MauricioAraujo1)
+* LinkedIn: [@mauricioarj1](https://linkedin.com/in/mauricioarj1)
